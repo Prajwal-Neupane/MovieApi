@@ -13,7 +13,7 @@ function MovieCard({ data }) {
         </div>
         <div className="card_title">
           <h1>{Title}</h1>
-          <span>Genre: Romance</span> <br />
+
           <span>{Year}</span>
         </div>
         {/* <div className="card_details">
